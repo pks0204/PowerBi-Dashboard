@@ -63,13 +63,7 @@ Sales Growth: Promote high-margin sub-categories (e.g., Copiers).
 
 Shipping Optimization: Compare Priority vs. Economy ship modes for cost savings.
 
-📸 Screenshots / Demos
-(S N Dashboard.png)
-Figure 1: Main dashboard with KPIs and filters.
 
-
-🔗 Project Files
-Power BI Report: Download .pbix
 
 
 📅 Last Updated: July 2025
