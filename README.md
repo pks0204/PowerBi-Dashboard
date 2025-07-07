@@ -1,7 +1,7 @@
 # PowerBi-Dashboard
 # SN CORP DASHBOARD - Power BI Report
 
-![Dashboard Screenshot](./assets/sn_dashboard_screenshot.png)  
+![Dashboard Screenshot]([./assets/sn_dashboard_screenshot.png](https://github.com/pks0204/PowerBi-Dashboard/blob/main/S%20N%20Dashboard.JPG))  
 *Figure 1: Overview of the SN Corp Dashboard*
 
 ## 📂 Project Files
